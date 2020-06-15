@@ -1,0 +1,773 @@
+
+vsquid:S1192N"SDefine a constant instead of duplicating this literal "SSN3 is entered: " 11 times.(­©“æüÿÿÿÿ8¹Ï¥ÎÊ-
+bsquid:S1854 ">Remove this useless assignment to local variable "cardNumber".(­Ö„æÿÿÿÿÿ8İØÅÖ÷-
+Ssquid:S1481 "/Remove this unused "cardNumber" local variable.(­Ö„æÿÿÿÿÿ8İØÅÖ÷-
+}squid:S1192 "YDefine a constant instead of duplicating this literal "//*[@id='ccnumberColl']" 10 times.(«µ¶şÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117ü"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8‡Û¼ÃÖ-
+{squid:S00117Ê"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ8¹Ï¥ÎÊ-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥—¶8›¨Öÿö-
+vsquid:S00117’"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8ã÷ˆØö-
+usquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8‡Û¼ÃÖ-
+}squid:S1192Ò"YDefine a constant instead of duplicating this literal "Click on Process Button " 4 times.(ãÅ‘³ûÿÿÿÿ8İØÅÖ÷-
+{squid:S00117¥"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8‡Û¼ÃÖ-
+squid:S1192ã"jDefine a constant instead of duplicating this literal "//input[@value='Yes' and @type='button']" 10 times.(şçÌÎøÿÿÿÿ8¹Ï¥ÎÊ-
+{squid:S00117­"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8›¨Öÿö-
+q
+squid:S134ï"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.( ¤›Õúÿÿÿÿ8ã÷ˆØö-
+gsquid:S1192Î"HDefine a constant instead of duplicating this literal "button2" 4 times.(Ç¥ÇÂ8İØÅÖ÷-
+@squid:S1148ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Ysquid:S1141ÿ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘Èõ›.
+csquid:S1854–"?Remove this useless assignment to local variable "ProductType".(ãú³øÿÿÿÿ8İØÅÖ÷-
+vsquid:S00117÷"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8‘Èõ›.
+squid:S1192ë"pDefine a constant instead of duplicating this literal "**********************************************" 20 times.(êøœ8ƒ±åÌÊ-
+rsquid:S1192."ODefine a constant instead of duplicating this literal "Debit Card No" 11 times.(­Ö„æÿÿÿÿÿ8¹Ï¥ÎÊ-
+Ysquid:S1141Ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ã×™Œü-
+{squid:S00117…"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ8ÊÌÄ÷-
+q
+squid:S134Ô"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8ãˆË›.
+Gsquid:S1148ï"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8É¾Ùö-
+osquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(¢ÄÀûùÿÿÿÿ8ã÷ˆØö-
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™é®•
+vsquid:S00117Ë"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8ÈªöîÊ-
+{squid:S00117“"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8ã÷ˆØö-
+Lsquid:S1172‚"-Remove this unused method parameter "AppURL".(šİÄ8›¨Öÿö-
+Ysquid:S1141ª"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‡Û¼ÃÖ-
+osquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ8İØÅÖ÷-
+vsquid:S1192¡"RDefine a constant instead of duplicating this literal "Card number is :" 10 times.(Îã¶ìûÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117•"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8ã÷ˆØö-
+ysquid:S1192­"ZDefine a constant instead of duplicating this literal "//*[@id='cvvnumberColl']" 10 times.(‘ùÀ×8¹Ï¥ÎÊ-
+Y
+squid:S106™";Replace this usage of System.out or System.err by a logger.(ı¦”8Ø‘•›Ë-
+{squid:S00117–"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8ã÷ˆØö-
+vsquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ë„µ•úÿÿÿÿ8ÈªöîÊ-
+hsquid:S1132º"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é8‡Û¼ÃÖ-
+vsquid:S00117¢"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8‡Û¼ÃÖ-
+^
+squid:S106ì";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8¹Ï¥ÎÊ-
+jsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(¥—¶8ã÷ˆØö-
+osquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+esquid:S1192n"GDefine a constant instead of duplicating this literal "value" 15 times.(Ş™Šı8ƒ±åÌÊ-
+squid:S1192r"cDefine a constant instead of duplicating this literal "advanceRequestBean.tenderAmtFirst" 11 times.(ŸÀîÌ8ƒ±åÌÊ-
+gsquid:S1192ê"IDefine a constant instead of duplicating this literal "KS Title" 6 times.(U8‘¡‚÷-
+ssquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+{squid:S00117Ò"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8İØÅÖ÷-
+{squid:S00117„"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8É¾Ùö-
+nsquid:S1132ô"OMove the "SIGNATURE" string literal on the left side of this string comparison.(Ş×Ö¸8›¨Öÿö-
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ
+{squid:S00117“"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8É¾Ùö-
+zsquid:S1192"VDefine a constant instead of duplicating this literal "Enterd card Type  : " 10 times.(×¬¦¤øÿÿÿÿ8¹Ï¥ÎÊ-
+gsquid:S1192Ğ"HDefine a constant instead of duplicating this literal "process" 8 times.(ç°ƒ•8›¨Öÿö-
+jsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(½Ê‘ÿ8Ø‘•›Ë-
+¡ squid:MethodCyclomaticComplexityñ"hThe Cyclomatic Complexity of this method "SecuredLocStepSame" is 12 which is greater than 10 authorized.(Ÿ™«¸üÿÿÿÿ8É¾Ùö-
+Isquid:S1166Í"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8‘Èõ›.
+Isquid:S1166Ë
+"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8›¨Öÿö-
+wsquid:S1192¦"XDefine a constant instead of duplicating this literal "//*[@id='expyearColl']" 10 times.(ÖÍëİ8¹Ï¥ÎÊ-
+tsquid:S00117É"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8»ÊÍœË-
+tsquid:S00117¦"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+vsquid:S00117…"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8‘Èõ›.
+usquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8Ø‘•›Ë-
+{squid:S00117‹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8»ÊÍœË-
+vsquid:S00117¢"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8Ø‘•›Ë-
+{squid:S00117¨"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ8İØÅÖ÷-
+Gsquid:S1148ô"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ƒ±åÌÊ-
+vsquid:S00117’"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8›¨Öÿö-
+l
+squid:S134Ï"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ş×Ö¸8ÃôØ¬Ñ-
+vsquid:S00117¦"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8‡Û¼ÃÖ-
+nsquid:S1132ª"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ8¹Ï¥ÎÊ-
+nsquid:S1132ö"OMove the "SIGNATURE" string literal on the left side of this string comparison.(Ş×Ö¸8»ÊÍœË-
+hsquid:S1132º"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î8»ÊÍœË-
+osquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(ÀæÛ­ùÿÿÿÿ8›¨Öÿö-
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8ÈªöîÊ-
+{squid:S00117ï"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çòş¢ûÿÿÿÿ8É¾Ùö-
+tsquid:S1132ˆ"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ8»ÊÍœË-
+vsquid:S00117’"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8ã÷ˆØö-
+lsquid:S1192/"NDefine a constant instead of duplicating this literal "Expiry Month" 11 times.(äÓú8¹Ï¥ÎÊ-
+{squid:S00117®"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8ã÷ˆØö-
+™squid:S1192f"vDefine a constant instead of duplicating this literal "Click on GO Button after transaction type selection " 11 times.(ª‚¬¥ùÿÿÿÿ8¹Ï¥ÎÊ-
+{squid:S00117“"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8»ÊÍœË-
+Gsquid:S1148¿"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹Ï¥ÎÊ-
+Ysquid:S1141Ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÈªöîÊ-
+Rsquid:S1141÷"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1172ñ"-Remove this unused method parameter "AppURL".(Ÿ™«¸üÿÿÿÿ8É¾Ùö-
+zsquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8ƒ±åÌÊ-
+vsquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8É¾Ùö-
+Dsquid:S1166û"%Either log or rethrow this exception.(”ı¾8Ø‘•›Ë-
+vsquid:S00117„"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜øÀ8‡Û¼ÃÖ-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½Ê‘ÿ8ÈªöîÊ-
+q
+squid:S134á"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ôíãıÿÿÿÿ8•ĞÕ©Ñ-
+vsquid:S00117œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8›¨Öÿö-
+Ysquid:S1141â"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8§“¿°ÿ-
+€squid:S1192İ"\Define a constant instead of duplicating this literal "//*[@id='confirmMsg']/b[3]" 10 times.(ñìøÿÿÿÿ8¹Ï¥ÎÊ-
+osquid:CommentedOutCodeLineŠ	"<This block of commented-out lines of code should be removed.(ÀæÛ­ùÿÿÿÿ8İØÅÖ÷-
+nsquid:S1132 
+"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ8»ÊÍœË-
+lsquid:S1854’"MRemove this useless assignment to local variable "ESign_CourtesyCallConsent".(Á£¼8İØÅÖ÷-
+Dsquid:S1166±
+"%Either log or rethrow this exception.(¬Ù¨Í8ƒ±åÌÊ-
+vsquid:S00117’"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8›¨Öÿö-
+Vsquid:S1854£"7Remove this useless assignment to local variable "cvv".(ü‰ÙË8İØÅÖ÷-
+Isquid:S1166ÿ"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8‡Û¼ÃÖ-
+Gsquid:S1148é"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÈªöîÊ-
+jsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(™é®•8¹Ï¥ÎÊ-
+vsquid:S1192à"XDefine a constant instead of duplicating this literal ", out of Credit Limit " 10 times.(ÿ¿ÈU8¹Ï¥ÎÊ-
+‰squid:S1192d"kDefine a constant instead of duplicating this literal "Transaction type is selected as Refinance" 11 times.(ôÅÁÜ8¹Ï¥ÎÊ-
+l
+squid:S134ò"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(²Õ¸—8è‹ş©Ñ-
+Dsquid:S1166Á"%Either log or rethrow this exception.(¬Ù¨Í8Ø‘•›Ë-
+squid:S1192³"]Define a constant instead of duplicating this literal "Clicked on add card button " 10 times.(ÁúØ‚ÿÿÿÿÿ8¹Ï¥ÎÊ-
+nsquid:S1132ä	"OMove the "SIGNATURE" string literal on the left side of this string comparison.(Ş×Ö¸8ã÷ˆØö-
+osquid:S00117¦"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ksquid:S00112¸"FDefine and throw a dedicated exception instead of using a generic one.(”šøĞúÿÿÿÿ8‘Èõ›.
+vsquid:S00117Ê"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8‡Û¼ÃÖ-
+isquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(¿û¤s8Ø‘•›Ë-
+osquid:S1192+"LDefine a constant instead of duplicating this literal "TenderType" 11 times.(ÊŞ³¨ÿÿÿÿÿ8¹Ï¥ÎÊ-
+osquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(¢ÄÀûùÿÿÿÿ8Ø‘•›Ë-
+Y
+squid:S106Å";Replace this usage of System.out or System.err by a logger.(²¿¹İ8ã÷ˆØö-
+› squid:MethodCyclomaticComplexity”"gThe Cyclomatic Complexity of this method "withdisb_StepSame" is 12 which is greater than 10 authorized.(²Ä‘€8‘Èõ›.
+usquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8ÈªöîÊ-
+vsquid:S00117×"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8Ø‘•›Ë-
+Ysquid:S1141¿"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ø‘•›Ë-
+osquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ8»ÊÍœË-
+usquid:S1192="RDefine a constant instead of duplicating this literal "transactions_tab" 10 times.(øÄéùÿÿÿÿ8ÈªöîÊ-
+{squid:S00117¾"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ8ã÷ˆØö-
+nsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ÇˆØÿÿÿÿÿ8‡Û¼ÃÖ-
+hsquid:S1132§"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é8»ÊÍœË-
+jsquid:S1192-"LDefine a constant instead of duplicating this literal "Card Type " 11 times.(Ğ¸¥‚8¹Ï¥ÎÊ-
+Lsquid:S1481Ÿ"-Remove this unused "cardType" local variable.(Ğ¸¥‚8İØÅÖ÷-
+zsquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8‡Û¼ÃÖ-
+{squid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8‘Èõ›.
+vsquid:S00117õ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8É¾Ùö-
+bsquid:S1854">Remove this useless assignment to local variable "TenderType".(ÊŞ³¨ÿÿÿÿÿ8İØÅÖ÷-
+vsquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8¹Ï¥ÎÊ-
+jsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(¥—¶8İØÅÖ÷-
+gsquid:S1192É"HDefine a constant instead of duplicating this literal "button1" 8 times.(õÙ«8›¨Öÿö-
+Dsquid:S1166æ"%Either log or rethrow this exception.(”ı¾8ãˆË›.
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8‡Û¼ÃÖ-
+hsquid:S1132­"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é8ƒ±åÌÊ-
+tsquid:S1132•"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ8¹Ï¥ÎÊ-
+Dsquid:S1166‘"%Either log or rethrow this exception.(¬Ù¨Í8É¾Ùö-
+nsquid:S1132×"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ8ã÷ˆØö-
+ysquid:S1192""[Define a constant instead of duplicating this literal "ESign_CourtesyCallConsent" 11 times.(Á£¼8¹Ï¥ÎÊ-
+vsquid:S00117§"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8İØÅÖ÷-
+osquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(ÀæÛ­ùÿÿÿÿ8úÑ¡·Ö-
+ƒsquid:S1192Î"dDefine a constant instead of duplicating this literal "advanceRequestBean.disbursementType" 3 times.(éŒ¯…8‘Èõ›.
+}squid:S1192n"_Define a constant instead of duplicating this literal "advanceRequestBean.paymentAmt" 14 times.(Ş™Šı8ƒ±åÌÊ-
+nsquid:S1192c"KDefine a constant instead of duplicating this literal "Refinance" 13 times.(ÔÇÒ»ùÿÿÿÿ8ƒ±åÌÊ-
+Ysquid:S1141	"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8É¾Ùö-
+lsquid:S1132Ô	"NMove the "KS Title" string literal on the left side of this string comparison.(U8ÊÌÄ÷-
+{squid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ8ã÷ˆØö-
+qsquid:S1192®"MDefine a constant instead of duplicating this literal "Enterd CVV " 10 times.(ĞõãŸüÿÿÿÿ8¹Ï¥ÎÊ-
+osquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(¢ÄÀûùÿÿÿÿ8É¾Ùö-
+{squid:S1192¯"WDefine a constant instead of duplicating this literal "//*[@id='ccnameColl']" 10 times.(æÙÊ¥ûÿÿÿÿ8¹Ï¥ÎÊ-
+hsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ÇˆØÿÿÿÿÿ
+^
+squid:S106‹";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ8ã÷ˆØö-
+k
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(U8›¨Öÿö-
+{squid:S00117Š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8¹Ï¥ÎÊ-
+{squid:S00117œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8‡Û¼ÃÖ-
+jsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(½Ê‘ÿ8›¨Öÿö-
+nsquid:S1192C"KDefine a constant instead of duplicating this literal "mainFrame" 22 times.(ËøÇªıÿÿÿÿ8ƒ±åÌÊ-
+— squid:MethodCyclomaticComplexity‚"^The Cyclomatic Complexity of this method "StepDown" is 11 which is greater than 10 authorized.(ûïÃÊüÿÿÿÿ8‡Û¼ÃÖ-
+squid:S1192"`Define a constant instead of duplicating this literal "//*[@id='cardTypeColl']/select" 10 times.(õ†˜¨8¹Ï¥ÎÊ-
+tsquid:S1192Ö"UDefine a constant instead of duplicating this literal "Enter the Disb. Amt " 3 times.(‰—À8‘Èõ›.
+osquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ÇˆØÿÿÿÿÿ8»ÊÍœË-
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8Ø‘•›Ë-
+{squid:S00117š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8ã÷ˆØö-
+Y
+squid:S106ò";Replace this usage of System.out or System.err by a logger.(²¿¹İ8‡Û¼ÃÖ-
+jsquid:CommentedOutCodeLineÙ
+"<This block of commented-out lines of code should be removed.(½Ê‘ÿ8É¾Ùö-
+{squid:S00117å"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë„µ•úÿÿÿÿ8›¨Öÿö-
+Ssquid:S1481"/Remove this unused "TenderType" local variable.(ÊŞ³¨ÿÿÿÿÿ8İØÅÖ÷-
+vsquid:S1192P"XDefine a constant instead of duplicating this literal "Click on submit Button" 10 times.(¼üÓÊ8ÈªöîÊ-
+{squid:S00117’"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8Ø‘•›Ë-
+squid:S1192æ"iDefine a constant instead of duplicating this literal "//input[@value='OK' and @type='button']" 20 times.(¤‹åîùÿÿÿÿ8ƒ±åÌÊ-
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8İØÅÖ÷-
+vsquid:S00117ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8Ø‘•›Ë-
+msquid:S1192ˆ"ODefine a constant instead of duplicating this literal "Collateral is " 9 times.(¸Íë8¹Ï¥ÎÊ-
+gsquid:S1132‹"OMove the "SIGNATURE" string literal on the left side of this string comparison.(Ş×Ö¸
+tsquid:S1132¯"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ8›¨Öÿö-
+xsquid:S1192'"UDefine a constant instead of duplicating this literal "Income_PayFrequency" 11 times.(İ‡éÌüÿÿÿÿ8¹Ï¥ÎÊ-
+Dsquid:S1166»"%Either log or rethrow this exception.(¬Ù¨Í8ÈªöîÊ-
+hsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(¿û¤s8»ÊÍœË-
+nsquid:S1132½"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ8ÈªöîÊ-
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ8‘Èõ›.
+{squid:S00117ˆ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8É¾Ùö-
+Y
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ8É¾Ùö-
+Y
+squid:S106ş";Replace this usage of System.out or System.err by a logger.(²¿¹İ8‡Û¼ÃÖ-
+Isquid:S1166Ú"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8§“¿°ÿ-
+vsquid:S00117Ø"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8ã÷ˆØö-
+{squid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8É¾Ùö-
+vsquid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8ÈªöîÊ-
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	8‡Û¼ÃÖ-
+jsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(Öì½ 8—ğ˜¾ƒ.
+isquid:S1192‹"JDefine a constant instead of duplicating this literal "SIGNATURE" 9 times.(Ş×Ö¸8ÈªöîÊ-
+l
+squid:S134ğ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(²Õ¸—8ÀìÀÖ-
+msquid:S1132î	"IMove the "ACH" string literal on the left side of this string comparison.(Ûı¶¡øÿÿÿÿ8É¾Ùö-
+{squid:S00117™"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8‡Û¼ÃÖ-
+=squid:S1166Î"%Either log or rethrow this exception.(¬Ù¨Í
+vsquid:S00117‘"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ã÷ˆØö-
+ˆsquid:S1192"dDefine a constant instead of duplicating this literal "Select Payment collateral type as " 23 times.(„äûÛúÿÿÿÿ8ƒ±åÌÊ-
+q
+squid:S134è"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(óò•Ëüÿÿÿÿ8É¾Ùö-
+k
+squid:S134ê"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(U8ƒ±åÌÊ-
+{squid:S00117Ú"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ8ƒ±åÌÊ-
+osquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ8‘Èõ›.
+Dsquid:S1166Æ"%Either log or rethrow this exception.(¬Ù¨Í8‘Èõ›.
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥—¶
+{squid:S00117›"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8ƒ±åÌÊ-
+Gsquid:S1148İ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø‘•›Ë-
+usquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8ƒ±åÌÊ-
+{squid:S00117€"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8›¨Öÿö-
+™squid:S1192|"{Define a constant instead of duplicating this literal "<FONT color=green style=Arial>getting refinance message  :" 9 times.(È³³¶8áÎ¡›Ë-
+lsquid:S1854œ"HRemove this useless assignment to local variable "ESign_CollateralType".(ÊÊâıÿÿÿÿ8İØÅÖ÷-
+{squid:S00117ˆ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8ã÷ˆØö-
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ÈªöîÊ-
+q
+squid:S134÷"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8¹Ÿã›.
+vsquid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8‡Û¼ÃÖ-
+tsquid:S00117‡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ
+{squid:S00117‘"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8‘Èõ›.
+Œsquid:S1192Z"iDefine a constant instead of duplicating this literal "//input[@value='Go' and @type='button']" 11 times.(÷æ£üÿÿÿÿ8¹Ï¥ÎÊ-
+{squid:S00117©"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8ƒ±åÌÊ-
+Gsquid:S1148ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İØÅÖ÷-
+Dsquid:S1166î"%Either log or rethrow this exception.(”ı¾8‘Èõ›.
+osquid:CommentedOutCodeLine²	"<This block of commented-out lines of code should be removed.(½ÇîÅûÿÿÿÿ8ÊÌÄ÷-
+isquid:S1192%"KDefine a constant instead of duplicating this literal "ProductID" 11 times.(œñ†í8¹Ï¥ÎÊ-
+W
+squid:S106†";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ
+l
+squid:S134Ö"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(÷Õ³8ƒ±åÌÊ-
+vsquid:S00117ü"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤şøï8‡Û¼ÃÖ-
+Esquid:S1172”"-Remove this unused method parameter "AppURL".(²Ä‘€
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8Ø‘•›Ë-
+jsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(’ıâ€8î§ï©Ñ-
+Ÿ squid:MethodCyclomaticComplexity"gThe Cyclomatic Complexity of this method "StepSame_WaiveFee" is 11 which is greater than 10 authorized.(†æ©ÿÿÿÿÿ8ã÷ˆØö-
+ˆsquid:S1192"jDefine a constant instead of duplicating this literal "advanceRequestBean.paymentCollateralType" 23 times.(ÂÿĞ*8ƒ±åÌÊ-
+~squid:S1192Å"ZDefine a constant instead of duplicating this literal "//*[@id='preferenceSms']" 10 times.(Ê¸ÍÑúÿÿÿÿ8¹Ï¥ÎÊ-
+asquid:S1854¤"BRemove this useless assignment to local variable "CardHolderName".(ëê¡€8İØÅÖ÷-
+{squid:S00117é"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ8›¨Öÿö-
+Rsquid:UselessParenthesesCheckú"!Remove those useless parentheses.(©Âä8ƒ±åÌÊ-
+nsquid:S1132õ"OMove the "SIGNATURE" string literal on the left side of this string comparison.(Ş×Ö¸8‘Èõ›.
+l
+squid:S134…"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(²Õ¸—8‡Û¼ÃÖ-
+°squid:S1192é"‹Define a constant instead of duplicating this literal "<FONT color=green style=Arial>Refinance StepSame from CSR is successfull " 13 times.(°ÓÉ¼ûÿÿÿÿ8¹Ï¥ÎÊ-
+osquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼
+tsquid:S1132Ø"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ8‘Èõ›.
+{squid:S00117‰"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8Ø‘•›Ë-
+{squid:S00117Ô"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ8‡Û¼ÃÖ-
+{squid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8¹Ï¥ÎÊ-
+^
+squid:S106‹";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8‡Û¼ÃÖ-
+Ysquid:S1141û"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘Èõ›.
+vsquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8É¾Ùö-
+vsquid:S00117‡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8»ÊÍœË-
+p
+squid:S134z"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(óò•Ëüÿÿÿÿ8ÀìÀÖ-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†æ©ÿÿÿÿÿ8ÈªöîÊ-
+{squid:S00117ı"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8‘Èõ›.
+Isquid:S1166Ü"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8‡Û¼ÃÖ-
+vsquid:S00117„"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜øÀ8ƒ±åÌÊ-
+vsquid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8‘Èõ›.
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8É¾Ùö-
+zsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8¹Ï¥ÎÊ-
+Y
+squid:S106à	";Replace this usage of System.out or System.err by a logger.(ı¦”8É¾Ùö-
+{squid:S00117‹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ8›¨Öÿö-
+vsquid:S00117¡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8»ÊÍœË-
+­squid:S1192á"ˆDefine a constant instead of duplicating this literal "<FONT color=green style=Arial>Refinance StepUp from CSR is successfull " 3 times.(íßßéşÿÿÿÿ8ß›¾©Ñ-
+isquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(¿û¤s8É¾Ùö-
+nsquid:S00100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤şøï8»ÊÍœË-
+tsquid:S1192«"UDefine a constant instead of duplicating this literal "Enterd Expiry year " 10 times.(Ç€Ş8¹Ï¥ÎÊ-
+nsquid:S1132ú"OMove the "SIGNATURE" string literal on the left side of this string comparison.(Ş×Ö¸8Úã•Øö-
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8›¨Öÿö-
+jsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(½Ê‘ÿ8‘Èõ›.
+qsquid:S1871…"MThis branch's code block is the same as the block for the branch on line 635.(ÒÌâ–øÿÿÿÿ8‡¼¶°ÿ-
+osquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(Áƒ«¬øÿÿÿÿ8‘Èõ›.
+lsquid:S1192‡"MDefine a constant instead of duplicating this literal "************" 9 times.(ı¦”8¹Ï¥ÎÊ-
+Œsquid:S1192e"iDefine a constant instead of duplicating this literal "//input[@name='button' and @value='Go']" 11 times.(Â„¢÷øÿÿÿÿ8¹Ï¥ÎÊ-
+osquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(ÀæÛ­ùÿÿÿÿ8‘Èõ›.
+Rsquid:S1481¤"3Remove this unused "CardHolderName" local variable.(ëê¡€8İØÅÖ÷-
+™ squid:MethodCyclomaticComplexityü"eThe Cyclomatic Complexity of this method "StepUp_WaiveFee" is 11 which is greater than 10 authorized.(¤şøï8ÃôØ¬Ñ-
+Psquid:S1481¡"1Remove this unused "cardEx_month" local variable.(äÓú8İØÅÖ÷-
+Ysquid:S1141³"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ã÷ˆØö-
+Psquid:S1172"-Remove this unused method parameter "AppURL".(†æ©ÿÿÿÿÿ8ƒ±åÌÊ-
+]squid:S1481œ"9Remove this unused "ESign_CollateralType" local variable.(ÊÊâıÿÿÿÿ8İØÅÖ÷-
+jsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(™é®•8‘Èõ›.
+v
+squid:S135ú"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	8Õšü©Ñ-
+^
+squid:S106ü";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8‘Èõ›.
+{squid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ8É¾Ùö-
+Y
+squid:S106ñ";Replace this usage of System.out or System.err by a logger.(ı¦”8‘Èõ›.
+u
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	8ÃôØ¬Ñ-
+X
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ8»ÊÍœË-
+^
+squid:S106Ñ";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ8›¨Öÿö-
+Isquid:S1166ˆ"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8É¾Ùö-
+osquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(ÇˆØÿÿÿÿÿ8›¨Öÿö-
+vsquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ä‘€8›¨Öÿö-
+zsquid:S1192Ô"VDefine a constant instead of duplicating this literal "requestBean.password" 10 times.(ŞºÈÔÿÿÿÿÿ8¹Ï¥ÎÊ-
+Dsquid:S1166¹"%Either log or rethrow this exception.(¬Ù¨Í8ã÷ˆØö-
+ssquid:S00100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ™«¸üÿÿÿÿ8É¾Ùö-
+v
+squid:S135ø"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	8É¾Ùö-
+jsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(™é®•8É¾Ùö-
+{squid:S00117Í"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ8¹Ï¥ÎÊ-
+Y
+squid:S106ô";Replace this usage of System.out or System.err by a logger.(ı¦”8»ÊÍœË-
+vsquid:S00117·"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8›¨Öÿö-
+psquid:S1192•"LDefine a constant instead of duplicating this literal "DEBIT CARD" 10 times.(­Œ•Òúÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8ÈªöîÊ-
+jsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(™é®•8›¨Öÿö-
+{squid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8Ø‘•›Ë-
+osquid:S1192á"KDefine a constant instead of duplicating this literal "Stepped Up" 4 times.(Ôíãıÿÿÿÿ8•ĞÕ©Ñ-
+vsquid:S00117€"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8‘Èõ›.
+Lsquid:S1172ü"-Remove this unused method parameter "AppURL".(¤şøï8‘Èõ›.
+osquid:CommentedOutCodeLine÷
+"<This block of commented-out lines of code should be removed.(ç˜ÇÊÿÿÿÿÿ8×¤¨¾ƒ.
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(†æ©ÿÿÿÿÿ8ã÷ˆØö-
+csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(½Ê‘ÿ
+Vsquid:S1854”"7Remove this useless assignment to local variable "PIN".(¿âĞ¬8İØÅÖ÷-
+vsquid:S1192›"RDefine a constant instead of duplicating this literal "Refinance started" 5 times.(Å†‡’ùÿÿÿÿ8ê±½¾Ö-
+hsquid:S1192<"JDefine a constant instead of duplicating this literal "topFrame" 12 times.(¥º³ç8ƒ±åÌÊ-
+hsquid:S1132¥"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î8ƒ±åÌÊ-
+vsquid:S00117„"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8¹Ï¥ÎÊ-
+rsquid:S1192Ó"TDefine a constant instead of duplicating this literal "Total Disb. Amt is " 3 times.(ÌÕÀ>8‘Èõ›.
+osquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ8ÈªöîÊ-
+‚squid:S1192ı"^Define a constant instead of duplicating this literal "Refinance from CSR is failed" 11 times.(Ä­‹âúÿÿÿÿ8¹Ï¥ÎÊ-
+j
+squid:S134î"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.( ¤›Õúÿÿÿÿ
+osquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ÇˆØÿÿÿÿÿ8ã÷ˆØö-
+vsquid:S00117Ü"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8İØÅÖ÷-
+nsquid:S11922"PDefine a constant instead of duplicating this literal "CardHolderName" 11 times.(ëê¡€8¹Ï¥ÎÊ-
+Qsquid:S1172‚"-Remove this unused method parameter "AppURL".(ûïÃÊüÿÿÿÿ8İØÅÖ÷-
+{squid:S00117–"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8İØÅÖ÷-
+{squid:S00117ˆ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8‡Û¼ÃÖ-
+osquid:CommentedOutCodeLineå
+"<This block of commented-out lines of code should be removed.(¢ÄÀûùÿÿÿÿ8»ÊÍœË-
+vsquid:S00104"_This file has 2,760 lines, which is greater than 1,000 authorized. Split it into smaller files.8Ø‘•›Ë-
+l
+squid:S134æ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ïúğ8‡Û¼ÃÖ-
+jsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(¥—¶8‘Èõ›.
+{squid:S00117Õ
+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ8ã÷ˆØö-
+vsquid:S00117è"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Áˆ¨8‡Û¼ÃÖ-
+q
+squid:S134ä"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ôíãıÿÿÿÿ8ã÷ˆØö-
+jsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(½Ê‘ÿ8ã÷ˆØö-
+^
+squid:S106‰";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ8»ÊÍœË-
+• squid:MethodCyclomaticComplexityï"\The Cyclomatic Complexity of this method "StepUp" is 11 which is greater than 10 authorized.(Çòş¢ûÿÿÿÿ8•ĞÕ©Ñ-
+{squid:S00117æ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ8İØÅÖ÷-
+Tsquid:S1481–"0Remove this unused "ProductType" local variable.(ãú³øÿÿÿÿ8İØÅÖ÷-
+{squid:S00117•"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8¹Ï¥ÎÊ-
+{squid:S00117Ó"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8Ø‘•›Ë-
+vsquid:S00117†"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8İØÅÖ÷-
+vsquid:S00117‘"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8¹Ï¥ÎÊ-
+Zsquid:S2130Ñ";Use "Float.parseFloat" for this string-to-float conversion.(Òê‚8ƒ±åÌÊ-
+Ysquid:S1141È"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¹Ï¥ÎÊ-
+nsquid:S1132´"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ8Ø‘•›Ë-
+gsquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜øÀ
+q
+squid:S134	"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8‘Èõ›.
+„squid:S1192Õ"`Define a constant instead of duplicating this literal "advanceRequestBean.disbAmtFirst" 4 times.(Ïù¾Åüÿÿÿÿ8§“¿°ÿ-
+jsquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(˜øÀ
+isquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(¿û¤s8ÈªöîÊ-
+osquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(¢ÄÀûùÿÿÿÿ8ÈªöîÊ-
+tsquid:S1132Œ"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ8‡Û¼ÃÖ-
+{squid:S00117ª"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8ƒ±åÌÊ-
+hsquid:S1132Ã"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î8ÈªöîÊ-
+—squid:S1192"yDefine a constant instead of duplicating this literal "<FONT color=red style=Arial>getting refinance message  :" 8 times.(Ş¯ã8è‹ş©Ñ-
+}squid:S1192£"YDefine a constant instead of duplicating this literal "//*[@id='expmonthColl']" 10 times.(™¢¾€ÿÿÿÿÿ8¹Ï¥ÎÊ-
+tsquid:S1192c"QDefine a constant instead of duplicating this literal "transactionList" 11 times.(ÔÇÒ»ùÿÿÿÿ8¬¢£·Ö-
+{squid:S00117İ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ8Ø‘•›Ë-
+Y
+squid:S106¡";Replace this usage of System.out or System.err by a logger.(²¿¹İ8İØÅÖ÷-
+Dsquid:S1166è"%Either log or rethrow this exception.(”ı¾8»ÊÍœË-
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ
+vsquid:S00117™"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8‘Èõ›.
+lsquid:S1132"NMove the "KS Title" string literal on the left side of this string comparison.(U8ÊÌÄ÷-
+hsquid:S1854“"DRemove this useless assignment to local variable "ESign_Preference".(Õ»Íèùÿÿÿÿ8İØÅÖ÷-
+jsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(½Ê‘ÿ8ƒ±åÌÊ-
+osquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ8‡Û¼ÃÖ-
+’ squid:MethodCyclomaticComplexity÷"^The Cyclomatic Complexity of this method "Stepdown" is 11 which is greater than 10 authorized.(–Ó«8ƒ±åÌÊ-
+Dsquid:S1166‚"%Either log or rethrow this exception.(¬Ù¨Í8›¨Öÿö-
+isquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(¿û¤s8‘Èõ›.
+Lsquid:S1172÷"-Remove this unused method parameter "AppURL".(–Ó«8ã÷ˆØö-
+tsquid:S00117—"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+v
+squid:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	8›¨Öÿö-
+vsquid:S00117÷"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ó«8‘Èõ›.
+jsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(™é®•8ÈªöîÊ-
+{squid:S00117‰"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8›¨Öÿö-
+nsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ä‘€8‘Èõ›.
+osquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ8ã÷ˆØö-
+msquid:S1132§"IMove the "ACH" string literal on the left side of this string comparison.(Ûı¶¡øÿÿÿÿ8ƒ±åÌÊ-
+{squid:S00117•"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8ÈªöîÊ-
+l
+squid:S134ô"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(öãñÌ8Õšü©Ñ-
+nsquid:S1132¨"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ8É¾Ùö-
+Ysquid:S1141Í"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ú§¾Ö-
+qsquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(¤şøï8»ÊÍœË-
+{squid:S00117Ï"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8›¨Öÿö-
+Qsquid:S1172¸"-Remove this unused method parameter "AppURL".(”šøĞúÿÿÿÿ8ÈªöîÊ-
+{squid:S00117¼"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ8Ø‘•›Ë-
+ysquid:S1192*"VDefine a constant instead of duplicating this literal "ESign_CollateralType" 11 times.(ÊÊâıÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117ğ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ã÷ˆØö-
+tsquid:S1192E"QDefine a constant instead of duplicating this literal "li[id='911101']" 11 times.(Ö«´»ûÿÿÿÿ8¹Ï¥ÎÊ-
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8‡Û¼ÃÖ-
+{squid:S00117¸"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”šøĞúÿÿÿÿ8¹Ï¥ÎÊ-
+^
+squid:S106¿";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8ã÷ˆØö-
+Osquid:S1481¢"0Remove this unused "cardEx_Year" local variable.(¸ÊÌæ8İØÅÖ÷-
+isquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(¿û¤s8İØÅÖ÷-
+nsquid:S1132"OMove the "SIGNATURE" string literal on the left side of this string comparison.(Ş×Ö¸8ÈªöîÊ-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†æ©ÿÿÿÿÿ8ã÷ˆØö-
+Qsquid:S1172ï"-Remove this unused method parameter "AppURL".(Çòş¢ûÿÿÿÿ8‡Û¼ÃÖ-
+nsquid:S1132ø"OMove the "SIGNATURE" string literal on the left side of this string comparison.(Ş×Ö¸8‡Û¼ÃÖ-
+W
+squid:S106¬";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ
+psquid:S1192…"LDefine a constant instead of duplicating this literal "ProductType" 4 times.(ãú³øÿÿÿÿ8İØÅÖ÷-
+§ squid:MethodCyclomaticComplexity¸"nThe Cyclomatic Complexity of this method "lessthansecuredlocamount" is 12 which is greater than 10 authorized.(”šøĞúÿÿÿÿ8›¨Öÿö-
+[squid:S1854Ÿ"<Remove this useless assignment to local variable "cardType".(Ğ¸¥‚8İØÅÖ÷-
+{squid:S1192u"]Define a constant instead of duplicating this literal "Entered tender amount as  :" 10 times.(Œıó8¹Ï¥ÎÊ-
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ
+{squid:S00117İ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8É¾Ùö-
+{squid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûïÃÊüÿÿÿÿ8Ø‘•›Ë-
+vsquid:S00117È"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼8İØÅÖ÷-
+^
+squid:S106ö";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8ã÷ˆØö-
+{squid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûïÃÊüÿÿÿÿ8É¾Ùö-
+isquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(¿û¤s8‡Û¼ÃÖ-
+Dsquid:S1166õ"%Either log or rethrow this exception.(”ı¾8¹Ï¥ÎÊ-
+xsquid:S1192à"ZDefine a constant instead of duplicating this literal " Will receive an LOC of " 10 times.(ÿ¿ÈU8¹Ï¥ÎÊ-
+{squid:S00117¨"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8İØÅÖ÷-
+vsquid:S00117•"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8›¨Öÿö-
+{squid:S00117Î"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8›¨Öÿö-
+^
+squid:S106›";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8¹Ï¥ÎÊ-
+Y
+squid:S106ö";Replace this usage of System.out or System.err by a logger.(ı¦”8›¨Öÿö-
+hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(¢ÄÀûùÿÿÿÿ
+l
+squid:S134ı"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡÷€é8‘Èõ›.
+msquid:S1132÷"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ
+vsquid:S00117–"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8»ÊÍœË-
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8›¨Öÿö-
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ8ƒ±åÌÊ-
+{squid:S00117¿"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ8‡Û¼ÃÖ-
+vsquid:S1192U"XDefine a constant instead of duplicating this literal "csr_new_loan_go_button" 11 times.(‚Û×ˆ8¹Ï¥ÎÊ-
+Y
+squid:S106ò";Replace this usage of System.out or System.err by a logger.(ı¦”8İØÅÖ÷-
+{squid:S00117ï"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çòş¢ûÿÿÿÿ8İØÅÖ÷-
+bsquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(¿û¤s
+Dsquid:S1166ö
+"%Either log or rethrow this exception.(”ı¾8İØÅÖ÷-
+Y
+squid:S106ğ";Replace this usage of System.out or System.err by a logger.(ı¦”8¹Ï¥ÎÊ-
+Ysquid:S1141¹
+"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¹Ÿã›.
+nsquid:S1132µ"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ8ƒ±åÌÊ-
+“squid:S1192²"oDefine a constant instead of duplicating this literal "//input[@value='Add Card' and @type='button']" 10 times.(çÉÔèûÿÿÿÿ8¹Ï¥ÎÊ-
+jsquid:CommentedOutCodeLineé
+"<This block of commented-out lines of code should be removed.(™é®•8»ÊÍœË-
+osquid:CommentedOutCodeLineÒ
+"<This block of commented-out lines of code should be removed.(‘öÛàùÿÿÿÿ8’Ç®Œü-
+V
+squid:S106)";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ
+Dsquid:S1166Å"%Either log or rethrow this exception.(¬Ù¨Í8†ÛŸ¾Ö-
+hsquid:S1132±"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é8Ø‘•›Ë-
+vsquid:S00117ü"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤şøï8ã÷ˆØö-
+hsquid:S1132†"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î8‘Èõ›.
+{squid:S00117×
+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ8»ÊÍœË-
+Dsquid:S1166°"%Either log or rethrow this exception.(¬Ù¨Í8Ú§¾Ö-
+qsquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(–Ó«8ƒ±åÌÊ-
+wsquid:S1192F"YDefine a constant instead of duplicating this literal "Clicked on Transactions" 11 times.(ãÿÊˆ8¹Ï¥ÎÊ-
+usquid:S1192ä"VDefine a constant instead of duplicating this literal "click on Yes button " 10 times.(¾¿ç8¹Ï¥ÎÊ-
+hsquid:S1132İ"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î8›¨Öÿö-
+{squid:S00117ñ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ™«¸üÿÿÿÿ8¹Ï¥ÎÊ-
+osquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(ÇˆØÿÿÿÿÿ8‘Èõ›.
+Y
+squid:S106‘";Replace this usage of System.out or System.err by a logger.(²¿¹İ8ÈªöîÊ-
+vsquid:S00117„"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8Ø‘•›Ë-
+{squid:S00117ú"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8İØÅÖ÷-
+jsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(Öì½ 8‘Èõ›.
+{squid:S00117è"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ8Ø‘•›Ë-
+Y
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ8¹Ï¥ÎÊ-
+tsquid:S1132€"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ8ã÷ˆØö-
+|squid:S1192>"^Define a constant instead of duplicating this literal "Clicked on Loan Transactions" 11 times.(¶ü³È8¹Ï¥ÎÊ-
+ssquid:S00100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çòş¢ûÿÿÿÿ8Ø‘•›Ë-
+Gsquid:S1481£"(Remove this unused "cvv" local variable.(ü‰ÙË8İØÅÖ÷-
+nsquid:S1192š"JDefine a constant instead of duplicating this literal "NEW CARD" 20 times.(ø•Óîÿÿÿÿÿ8ƒ±åÌÊ-
+vsquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ä‘€8ã÷ˆØö-
+hsquid:S1132Ô"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é8ÈªöîÊ-
+‰squid:S1192V"kDefine a constant instead of duplicating this literal "Clicked on GO Button under search results" 11 times.(¦ÿÄ8¹Ï¥ÎÊ-
+vsquid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8»ÊÍœË-
+’ squid:MethodCyclomaticComplexity„"^The Cyclomatic Complexity of this method "StepSame" is 11 which is greater than 10 authorized.(˜øÀ8è‹ş©Ñ-
+jsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(½Ê‘ÿ8‡Û¼ÃÖ-
+jsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(˜¤¶Ñ8ÀìÀÖ-
+Šsquid:S1845÷"kRename method "Stepdown" to prevent any misunderstanding/clash with method "StepDown" defined on line 1538.(–Ó«8‡Û¼ÃÖ-
+vsquid:S00117³"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8İØÅÖ÷-
+hsquid:S1132
+"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é8ã÷ˆØö-
+nsquid:S1132Ÿ"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ8‘Èõ›.
+}squid:S1192Ò"^Define a constant instead of duplicating this literal "textBox50NoneditableMonetary2" 3 times.(óıÆ£8‘Èõ›.
+nsquid:S00100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ó«8ƒ±åÌÊ-
+vsquid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šİÄ8İØÅÖ÷-
+‰squid:S1192·"eDefine a constant instead of duplicating this literal "advanceRequestBean.courtesyCallFlag" 10 times.(É»ÛÔÿÿÿÿÿ8¹Ï¥ÎÊ-
+W
+squid:S106ƒ";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+{squid:S00117ö"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8İØÅÖ÷-
+osquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(¢ÄÀûùÿÿÿÿ8›¨Öÿö-
+^
+squid:S106›";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ8ƒ±åÌÊ-
+{squid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117­	"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äû…²8›¨Öÿö-
+{squid:S00117Õ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ8‘Èõ›.
+lsquid:S1132ê"NMove the "KS Title" string literal on the left side of this string comparison.(U8‘¡‚÷-
+q
+squid:S134è"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¬Ü²†şÿÿÿÿ8‘Èõ›.
+{squid:S00117ş"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8‘Èõ›.
+Isquid:S1166†"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8‘Èõ›.
+usquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8ƒ±åÌÊ-
+qsquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(²Ä‘€8‘Èõ›.
+tsquid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ
+ksquid:S00112ñ"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ™«¸üÿÿÿÿ8—ğ˜¾ƒ.
+jsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(™é®•8‡Û¼ÃÖ-
+hsquid:S1132î"IMove the "ACH" string literal on the left side of this string comparison.(ƒÛÕá8‘Èõ›.
+{squid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8ã÷ˆØö-
+osquid:S1192¿"PDefine a constant instead of duplicating this literal "preferenceCall" 10 times.(Š¥§·8¹Ï¥ÎÊ-
+osquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(Áƒ«¬øÿÿÿÿ8§“¿°ÿ-
+jsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(¥—¶8¹Ï¥ÎÊ-
+jsquid:CommentedOutCodeLineÄ
+"<This block of commented-out lines of code should be removed.(ş‚¦†8Ö®¼Œü-
+osquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Ôáç‰üÿÿÿÿ8üåœ¾Ö-
+Bsquid:S1166ı"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+vsquid:S1192w"XDefine a constant instead of duplicating this literal "//*[@id='_StepUpDown']" 10 times.(µ¦Â8¹Ï¥ÎÊ-
+osquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+tsquid:S00117È"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ
+{squid:S00117Ş"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8ƒ±åÌÊ-
+hsquid:S1132¶"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î8¹Ï¥ÎÊ-
+Dsquid:S1166ó"%Either log or rethrow this exception.(”ı¾8ƒ±åÌÊ-
+vsquid:S00117‡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8İØÅÖ÷-
+Y
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ8›¨Öÿö-
+hsquid:S1132¥"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é8É¾Ùö-
+{squid:S00117œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8ƒ±åÌÊ-
+isquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(¿û¤s8›¨Öÿö-
+{squid:S00117Ø
+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ8ÈªöîÊ-
+{squid:S00117Ç"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ8ÈªöîÊ-
+vsquid:S1192o"YDefine a constant instead of duplicating this literal "Getting payment amount " 10 times.(¬£”;8¹Ï¥ÎÊ-
+Y
+squid:S106‰";Replace this usage of System.out or System.err by a logger.(²¿¹İ8‘Èõ›.
+Ysquid:S1481“"5Remove this unused "ESign_Preference" local variable.(Õ»Íèùÿÿÿÿ8İØÅÖ÷-
+v
+squid:S135Á"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	8è‹ş©Ñ-
+Isquid:S1166«"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8¹Ÿã›.
+Isquid:S1166£	"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8ã÷ˆØö-
+^squid:S1854¢"?Remove this useless assignment to local variable "cardEx_Year".(¸ÊÌæ8İØÅÖ÷-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥—¶8Ø‘•›Ë-
+osquid:S00117µ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€
+vsquid:S1192J"SDefine a constant instead of duplicating this literal "SSN1 is entered: " 11 times.(èİé°ûÿÿÿÿ8¹Ï¥ÎÊ-
+usquid:S1192#"RDefine a constant instead of duplicating this literal "Esign_Preference" 11 times.(Õ»Íèùÿÿÿÿ8¹Ï¥ÎÊ-
+jsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(¥—¶8É¾Ùö-
+{squid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ8‘Èõ›.
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8É¾Ùö-
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8ÈªöîÊ-
+lsquid:S1192O"IDefine a constant instead of duplicating this literal "submit1" 10 times.(ãÒÌ—şÿÿÿÿ8ÈªöîÊ-
+hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ
+osquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(ÀæÛ­ùÿÿÿÿ8‡Û¼ÃÖ-
+{squid:S00117…"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8‘Èõ›.
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	8ã÷ˆØö-
+vsquid:S00117–"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ƒ±åÌÊ-
+{squid:S00117–"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ8‘Èõ›.
+osquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÀìÀÖ-
+{squid:S00117§"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8ƒ±åÌÊ-
+q
+squid:S134©"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¤‹åîùÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117Ñ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òê‚8ƒ±åÌÊ-
+{squid:S00117Ğ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñìøÿÿÿÿ8»ÊÍœË-
+vsquid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8¹Ï¥ÎÊ-
+tsquid:S00117ñ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ™«¸üÿÿÿÿ
+^
+squid:S106ø";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8É¾Ùö-
+vsquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8¹Ï¥ÎÊ-
+osquid:CommentedOutCodeLineÌ	"<This block of commented-out lines of code should be removed.(ÇˆØÿÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8İØÅÖ÷-
+Ysquid:S1141»"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8›¨Öÿö-
+hsquid:S1132°"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î8Ø‘•›Ë-
+{squid:S00117§"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8ÈªöîÊ-
+msquid:S1192z"JDefine a constant instead of duplicating this literal "Step Same" 5 times.(óò•Ëüÿÿÿÿ8ÈªöîÊ-
+usquid:S1192°"VDefine a constant instead of duplicating this literal "Card holder name is " 10 times.(ŸóÆÿ8¹Ï¥ÎÊ-
+Ysquid:S1141ğ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ãˆË›.
+msquid:S1132„"IMove the "ACH" string literal on the left side of this string comparison.(Ûı¶¡øÿÿÿÿ8›¨Öÿö-
+isquid:CommentedOutCodeLineˆ	"<This block of commented-out lines of code should be removed.(¿û¤s8ã÷ˆØö-
+lsquid:S1192&"IDefine a constant instead of duplicating this literal "StateID" 11 times.(ŞÑæüÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8¹Ï¥ÎÊ-
+osquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ8É¾Ùö-
+…squid:S1192Ï"aDefine a constant instead of duplicating this literal "Click on Co-Owner Update Button " 4 times.(¥ô›ùÿÿÿÿ8İØÅÖ÷-
+osquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ÇˆØÿÿÿÿÿ8É¾Ùö-
+zsquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8»ÊÍœË-
+nsquid:S1132°"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ8›¨Öÿö-
+Dsquid:S1166Ü"%Either log or rethrow this exception.(”ı¾8Ã×™Œü-
+tsquid:S1132ø	"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ8ƒ±åÌÊ-
+jsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(½Ê‘ÿ8¹Ï¥ÎÊ-
+rsquid:S1132z"OMove the "Step Same" string literal on the left side of this string comparison.(óò•Ëüÿÿÿÿ8è‹ş©Ñ-
+vsquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ûïÃÊüÿÿÿÿ8‡Û¼ÃÖ-
+osquid:S00117¡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú
+Y
+squid:S106ê";Replace this usage of System.out or System.err by a logger.(ı¦”8›¨Öÿö-
+k
+squid:S134Ô	"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(U8ÈªöîÊ-
+vsquid:S00117¦"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8É¾Ùö-
+osquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(ºÖƒìøÿÿÿÿ8Ú§¾Ö-
+zsquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8ÈªöîÊ-
+vsquid:S00117²"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8ã÷ˆØö-
+vsquid:S00117—"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8¹Ï¥ÎÊ-
+{squid:S00117¸"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8›¨Öÿö-
+^
+squid:S106ü";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ8‘Èõ›.
+{squid:S00117†"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8»ÊÍœË-
+qsquid:S1192à"SDefine a constant instead of duplicating this literal "confirm text is  " 10 times.(ÿ¿ÈU8¹Ï¥ÎÊ-
+hsquid:S1132®"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î8É¾Ùö-
+^
+squid:S106“";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ8›¨Öÿö-
+vsquid:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(”šøĞúÿÿÿÿ8›¨Öÿö-
+vsquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8É¾Ùö-
+ssquid:S1192×"ODefine a constant instead of duplicating this literal "finishadvance" 13 times.(ü®±•ûÿÿÿÿ8¹Ï¥ÎÊ-
+osquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(¢ÄÀûùÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šİÄ8»ÊÍœË-
+|squid:S1192Õ"^Define a constant instead of duplicating this literal "ESign_Checks is selected as " 10 times.(¿×Äy8¹Ï¥ÎÊ-
+v
+squid:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	8‘Èõ›.
+osquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(ÀæÛ­ùÿÿÿÿ8É¾Ùö-
+l
+squid:S134—"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(öãñÌ8É¾Ùö-
+{squid:S00117¹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8ÈªöîÊ-
+€squid:S1192Ü"\Define a constant instead of duplicating this literal "//*[@id='confirmMsg']/b[2]" 10 times.(¤…““øÿÿÿÿ8¹Ï¥ÎÊ-
+^
+squid:S106›";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ8İØÅÖ÷-
+Ysquid:S1141À"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘Èõ›.
+vsquid:S00117¢"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8ÈªöîÊ-
+{squid:S00117ù"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8‘Èõ›.
+vsquid:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Çòş¢ûÿÿÿÿ8Ø‘•›Ë-
+Lsquid:S1172„"-Remove this unused method parameter "AppURL".(˜øÀ8¹Ï¥ÎÊ-
+vsquid:S00117Ã"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ƒ±åÌÊ-
+nsquid:S1192"KDefine a constant instead of duplicating this literal "ReFinance" 20 times.(á¸‹¾şÿÿÿÿ8¹Ï¥ÎÊ-
+€squid:S1192Ú"\Define a constant instead of duplicating this literal "//*[@id='confirmMsg']/b[1]" 10 times.(ÿÊŸ¯ıÿÿÿÿ8¹Ï¥ÎÊ-
+{squid:S00117É"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ8É¾Ùö-
+‚squid:S1192p"dDefine a constant instead of duplicating this literal "advanceRequestBean.tenderTypeFirst" 10 times.(º»¸®8¹Ï¥ÎÊ-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥—¶8»ÊÍœË-
+ssquid:S00100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûïÃÊüÿÿÿÿ8‡Û¼ÃÖ-
+ksquid:S11920"MDefine a constant instead of duplicating this literal "Expiry Year" 11 times.(¸ÊÌæ8¹Ï¥ÎÊ-
+{squid:S1192q"XDefine a constant instead of duplicating this literal "Select tender type as " 12 times.(İ·ôüÿÿÿÿ8¹Ï¥ÎÊ-
+jsquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(¥—¶8‡Û¼ÃÖ-
+{squid:S00117å"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë„µ•úÿÿÿÿ8‘Èõ›.
+Dsquid:S1166è"%Either log or rethrow this exception.(¬Ù¨Í8»ÊÍœË-
+rsquid:S1132Ş	"NMove the "KS Title" string literal on the left side of this string comparison.(’óˆ²şÿÿÿÿ8‘Èõ›.
+{squid:S00117¥"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8İØÅÖ÷-
+vsquid:S00117š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8‘Èõ›.
+„squid:S1192¸"gDefine a constant instead of duplicating this literal "Courtesy Call Consent is selected as " 30 times.(«–Òúÿÿÿÿ
+zsquid:S1192;"WDefine a constant instead of duplicating this literal "Default Verify started" 5 times.(‡Úåòúÿÿÿÿ8ã÷ˆØö-
+usquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ÈªöîÊ-
+{squid:S00117‡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8ã÷ˆØö-
+tsquid:S00117¸"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”šøĞúÿÿÿÿ
+{squid:S00117•"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8›¨Öÿö-
+vsquid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú8ƒ±åÌÊ-
+q
+squid:S134Ş	"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(’óˆ²şÿÿÿÿ8›¨Öÿö-
+hsquid:S1132¦
+"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î8ã÷ˆØö-
+{squid:S00117Ü"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ8ƒ±åÌÊ-
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8ƒ±åÌÊ-
+]squid:S1481’">Remove this unused "ESign_CourtesyCallConsent" local variable.(Á£¼8İØÅÖ÷-
+osquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ8›¨Öÿö-
+gsquid:S1132€"JMove the "Call" string literal on the left side of this string comparison.(÷«Éßøÿÿÿÿ
+tsquid:S00117Ò"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ
+^
+squid:S106‰";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8ÈªöîÊ-
+Y
+squid:S106ü";Replace this usage of System.out or System.err by a logger.(²¿¹İ8É¾Ùö-
+Ysquid:S1141µ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ƒ±åÌÊ-
+vsquid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8ã÷ˆØö-
+osquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(¢ÄÀûùÿÿÿÿ8‘Èõ›.
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8‘Èõ›.
+tsquid:S1132‚"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ8É¾Ùö-
+Gsquid:S1481”"(Remove this unused "PIN" local variable.(¿âĞ¬8İØÅÖ÷-
+vsquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Ÿ™«¸üÿÿÿÿ8É¾Ùö-
+jsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(™é®•8ã÷ˆØö-
+_squid:S1854¡"@Remove this useless assignment to local variable "cardEx_month".(äÓú8İØÅÖ÷-
+hsquid:S1132ı"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é8›¨Öÿö-
+ˆsquid:S1192["jDefine a constant instead of duplicating this literal "Clicked on Go button under Loans section" 11 times.(îåêê8¹Ï¥ÎÊ-
+{squid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8‘Èõ›.
+vsquid:S00117÷"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ó«8ÈªöîÊ-
+osquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(Ôáç‰üÿÿÿÿ8†ÛŸ¾Ö-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†æ©ÿÿÿÿÿ8»ÊÍœË-
+qsquid:S1871¨"MThis branch's code block is the same as the block for the branch on line 926.(ÒÌâ–øÿÿÿÿ8Úã•Øö-
+asquid:S1132»"IMove the "SMS" string literal on the left side of this string comparison.(Œ¤î
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8‘Èõ›.
+{squid:S00117Å"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ8›¨Öÿö-
+{squid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ8Ø‘•›Ë-
+tsquid:S1132"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(­Œ•Òúÿÿÿÿ8ÈªöîÊ-
+Y
+squid:S106‡";Replace this usage of System.out or System.err by a logger.(ı¦”8»ÊÍœË-
+{squid:S00117™"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8¹Ï¥ÎÊ-
+‰squid:S1192Ì"jDefine a constant instead of duplicating this literal "Click on Borrower Overview Update Button " 4 times.(õï’‘8İØÅÖ÷-
+}squid:S1192Ø"^Define a constant instead of duplicating this literal "click on Finish Loan button " 13 times.(‹Êäó8¹Ï¥ÎÊ-
+ssquid:S1132è"OMove the "Step Same" string literal on the left side of this string comparison.(óò•Ëüÿÿÿÿ8ã÷ˆØö-
+Ysquid:S1141«
+"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8»ÊÍœË-
+{squid:S00117¨"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8»ÊÍœË-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(åÊ¬“ÿÿÿÿÿ8¹Ï¥ÎÊ-
+{squid:S00117Ç"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ8É¾Ùö-
+^
+squid:S106™";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ8ÈªöîÊ-
+vsquid:S00117Ú"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€8İØÅÖ÷-
+vsquid:S00117ú"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8›¨Öÿö-
+nsquid:S1132Ï"OMove the "SIGNATURE" string literal on the left side of this string comparison.(Ş×Ö¸8É¾Ùö-
+{squid:S00117Ï"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…““øÿÿÿÿ8É¾Ùö-
+vsquid:S00117‡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8»ÊÍœË-
+^
+squid:S106‰";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8ƒ±åÌÊ-
+rsquid:S1192›"SDefine a constant instead of duplicating this literal "Select card as : " 10 times.(Ô—éÀ8¹Ï¥ÎÊ-
+{squid:S00117Ì"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ8‘¡‚÷-
+{squid:S00117—"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8ÈªöîÊ-
+rsquid:S1871ï	"NThis branch's code block is the same as the block for the branch on line 1253.(ÒÌâ–øÿÿÿÿ8‘Èõ›.
+fsquid:S00112”"FDefine and throw a dedicated exception instead of using a generic one.(²Ä‘€8×¤¨¾ƒ.
+usquid:S1192¤"VDefine a constant instead of duplicating this literal "Enterd Expiry month " 10 times.(ú¥ë8¹Ï¥ÎÊ-
+qsquid:S1192L"SDefine a constant instead of duplicating this literal "SSN2 is entered: " 11 times.(®äË­8¹Ï¥ÎÊ-
+Qsquid:S1172å"-Remove this unused method parameter "AppURL".(Ë„µ•úÿÿÿÿ8Ø‘•›Ë-
+…squid:S1192š"aDefine a constant instead of duplicating this literal "//*[@id='cardsListColl']/select" 10 times.(ø•Óîÿÿÿÿÿ8¹Ï¥ÎÊ-
+vsquid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8»ÊÍœË-
+vsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ8É¾Ùö-
+hsquid:S1132œ"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é8‘Èõ›.
+asquid:S1132²"IMove the "Yes" string literal on the left side of this string comparison.(¡÷€é
+{squid:S00117‰"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊŸ¯ıÿÿÿÿ8»ÊÍœË-
+vsquid:S00117ø"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8É¾Ùö-
+|squid:S1192×"]Define a constant instead of duplicating this literal "Clicked Yes on cashOut popup" 3 times.(ÉŞ´æ8ÎÀ†šª.
+•squid:S1192Ö"vDefine a constant instead of duplicating this literal "//*[@id='documentForm']/table/tbody/tr[4]/td/input[1]" 3 times.(õµğú8ÎÀ†šª.
+jsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ùí†Œ8ÎÀ†šª.
+q
+squid:S134Ç"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8ÎÀ†šª.
+Ysquid:S1141‹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÎÀ†šª.
+Dsquid:S1166¾"%Either log or rethrow this exception.(”ı¾8ÎÀ†šª.

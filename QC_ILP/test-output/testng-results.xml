@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="52" total="53" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92569" started-at="2020-04-12T01:08:52Z" finished-at="2020-04-12T01:10:24Z">
+    <groups>
+      <group name="Ratikanta_ILP_1">
+        <method signature="QCStore.RQC_Default_TLPConversion_Txn_Testdata()[pri:9, instance:tests.QCStore@130d63be]" name="RQC_Default_TLPConversion_Txn_Testdata" class="tests.QCStore"/>
+      </group> <!-- Ratikanta_ILP_1 -->
+    </groups>
+    <test name="Test" duration-ms="92569" started-at="2020-04-12T01:08:52Z" finished-at="2020-04-12T01:10:24Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@130d63be]" name="setup" is-config="true" duration-ms="105" started-at="2020-04-12T01:08:52Z" finished-at="2020-04-12T01:08:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@130d63be]" name="killProcess" is-config="true" duration-ms="5000" started-at="2020-04-12T01:08:52Z" finished-at="2020-04-12T01:08:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="RQC_Default_TLPConversion_Txn_Testdata()[pri:9, instance:tests.QCStore@130d63be]" name="RQC_Default_TLPConversion_Txn_Testdata" duration-ms="86639" started-at="2020-04-12T01:08:57Z" finished-at="2020-04-12T01:10:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RQC_Default_TLPConversion_Txn_Testdata -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@130d63be]" name="endReport" is-config="true" duration-ms="0" started-at="2020-04-12T01:10:23Z" finished-at="2020-04-12T01:10:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@130d63be]" name="getResult" is-config="true" duration-ms="808" started-at="2020-04-12T01:10:23Z" finished-at="2020-04-12T01:10:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RQC_Default_TLPConversion_Txn_Testdata status=SUCCESS method=QCStore.RQC_Default_TLPConversion_Txn_Testdata()[pri:9, instance:tests.QCStore@130d63be] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="595086" started-at="2020-05-08T08:23:29Z" finished-at="2020-05-08T08:33:24Z">
+    <groups>
+      <group name="Ratikanta_Online_WIILP">
+        <method signature="QCStore.QC_Sprint_Online_WIILP_DC_ACH_Txn_Testdata()[pri:3, instance:tests.QCStore@6cf0e0ba]" name="QC_Sprint_Online_WIILP_DC_ACH_Txn_Testdata" class="tests.QCStore"/>
+      </group> <!-- Ratikanta_Online_WIILP -->
+    </groups>
+    <test name="Test" duration-ms="595086" started-at="2020-05-08T08:23:29Z" finished-at="2020-05-08T08:33:24Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@6cf0e0ba]" name="setup" is-config="true" duration-ms="10169" started-at="2020-05-08T08:23:29Z" finished-at="2020-05-08T08:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6cf0e0ba]" name="killProcess" is-config="true" duration-ms="5001" started-at="2020-05-08T08:23:39Z" finished-at="2020-05-08T08:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_Sprint_Online_WIILP_DC_ACH_Txn_Testdata()[pri:3, instance:tests.QCStore@6cf0e0ba]" name="QC_Sprint_Online_WIILP_DC_ACH_Txn_Testdata" duration-ms="579053" started-at="2020-05-08T08:23:44Z" finished-at="2020-05-08T08:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_Sprint_Online_WIILP_DC_ACH_Txn_Testdata -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@6cf0e0ba]" name="endReport" is-config="true" duration-ms="0" started-at="2020-05-08T08:33:23Z" finished-at="2020-05-08T08:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6cf0e0ba]" name="getResult" is-config="true" duration-ms="845" started-at="2020-05-08T08:33:23Z" finished-at="2020-05-08T08:33:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_Sprint_Online_WIILP_DC_ACH_Txn_Testdata status=SUCCESS method=QCStore.QC_Sprint_Online_WIILP_DC_ACH_Txn_Testdata()[pri:3, instance:tests.QCStore@6cf0e0ba] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

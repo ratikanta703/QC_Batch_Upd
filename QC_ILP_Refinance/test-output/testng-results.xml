@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="15" total="16" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1861948" started-at="2020-06-11T04:46:52Z" finished-at="2020-06-11T05:17:54Z">
+    <groups>
+      <group name="Ratikanta_ILP_Semimonthly_1">
+        <method signature="QCStore.QC_3Payments_Refinance_Semimonthly_StepUp_Txn_Testdata()[pri:1, instance:tests.QCStore@4e9ba398]" name="QC_3Payments_Refinance_Semimonthly_StepUp_Txn_Testdata" class="tests.QCStore"/>
+      </group> <!-- Ratikanta_ILP_Semimonthly_1 -->
+    </groups>
+    <test name="Test" duration-ms="1861948" started-at="2020-06-11T04:46:52Z" finished-at="2020-06-11T05:17:54Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@4e9ba398]" name="setup" is-config="true" duration-ms="88" started-at="2020-06-11T04:46:52Z" finished-at="2020-06-11T04:46:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@4e9ba398]" name="killProcess" is-config="true" duration-ms="5035" started-at="2020-06-11T04:46:52Z" finished-at="2020-06-11T04:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_3Payments_Refinance_Semimonthly_StepUp_Txn_Testdata()[pri:1, instance:tests.QCStore@4e9ba398]" name="QC_3Payments_Refinance_Semimonthly_StepUp_Txn_Testdata" duration-ms="1856624" started-at="2020-06-11T04:46:57Z" finished-at="2020-06-11T05:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_3Payments_Refinance_Semimonthly_StepUp_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@4e9ba398]" name="getResult" is-config="true" duration-ms="187" started-at="2020-06-11T05:17:54Z" finished-at="2020-06-11T05:17:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_3Payments_Refinance_Semimonthly_StepUp_Txn_Testdata status=SUCCESS method=QCStore.QC_3Payments_Refinance_Semimonthly_StepUp_Txn_Testdata()[pri:1, instance:tests.QCStore@4e9ba398] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@4e9ba398]" name="endReport" is-config="true" duration-ms="0" started-at="2020-06-11T05:17:54Z" finished-at="2020-06-11T05:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="60" total="61" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110169" started-at="2020-03-17T13:16:02Z" finished-at="2020-03-17T13:17:52Z">
+    <groups>
+      <group name="Ratikanta_Sprint2_REQ_601_MOPDL">
+        <method signature="QCStore.QC_Sprint2_QF_601_TS_086_Txn_Testdata()[pri:62, instance:tests.QCStore@130d63be]" name="QC_Sprint2_QF_601_TS_086_Txn_Testdata" class="tests.QCStore"/>
+      </group> <!-- Ratikanta_Sprint2_REQ_601_MOPDL -->
+    </groups>
+    <test name="Test" duration-ms="110169" started-at="2020-03-17T13:16:02Z" finished-at="2020-03-17T13:17:52Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@130d63be]" name="setup" is-config="true" duration-ms="93" started-at="2020-03-17T13:16:02Z" finished-at="2020-03-17T13:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@130d63be]" name="killProcess" is-config="true" duration-ms="5000" started-at="2020-03-17T13:16:02Z" finished-at="2020-03-17T13:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_Sprint2_QF_601_TS_086_Txn_Testdata()[pri:62, instance:tests.QCStore@130d63be]" name="QC_Sprint2_QF_601_TS_086_Txn_Testdata" duration-ms="104360" started-at="2020-03-17T13:16:07Z" finished-at="2020-03-17T13:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_Sprint2_QF_601_TS_086_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@130d63be]" name="getResult" is-config="true" duration-ms="699" started-at="2020-03-17T13:17:51Z" finished-at="2020-03-17T13:17:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_Sprint2_QF_601_TS_086_Txn_Testdata status=SUCCESS method=QCStore.QC_Sprint2_QF_601_TS_086_Txn_Testdata()[pri:62, instance:tests.QCStore@130d63be] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@130d63be]" name="endReport" is-config="true" duration-ms="0" started-at="2020-03-17T13:17:51Z" finished-at="2020-03-17T13:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <include name="Ratikanta_NVTLP_Accounting"/>
+        <include name="Ratikanta_LOC_Accounting"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.QCStore">
+        <methods>
+          <include name="QC_LOC_Payment_Default_Repo_RefinanceWithDisb_Txn_Testdata"/>
+          <include name="getResult"/>
+          <include name="setup"/>
+          <include name="QC_LOC_Default_Repo_Refinance_Txn_Testdata"/>
+          <include name="QC_LOC_Payment_Default_Repo_Refinance_Txn_Testdata"/>
+          <include name="QC_LOC_SignatureLoan_Runtwostatements_WaiveFee_CheckWaiveFeein2997Store_Txn_Testdata"/>
+          <include name="QC_LOC_Payment_Default_DefaultPayment_Repo_RefinanceWithDisb_Txn_Testdata"/>
+          <include name="endReport"/>
+          <include name="killProcess"/>
+        </methods>
+      </class> <!-- tests.QCStore -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

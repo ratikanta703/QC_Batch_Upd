@@ -1,0 +1,64 @@
+
+`squid:S1132„"IMove the "LOC" string literal on the left side of this string comparison.(İşt
+ssquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+Dsquid:S1166¢"%Either log or rethrow this exception.(¬Ù¨Í8¾·‡µâ-
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ
+nsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+lsquid:S1132u"NMove the "ILP-2PDL" string literal on the left side of this string comparison.(³ÕØ¶8»Ş·â-
+[squid:S1854)"?Remove this useless assignment to local variable "ProductType".(ãú³øÿÿÿÿ
+Wsquid:S1854&";Remove this useless assignment to local variable "StateID".(ŞÑæüÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔĞ‚Áÿÿÿÿÿ
+@squid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔĞ‚Áÿÿÿÿÿ
+Isquid:S1481#"-Remove this unused "Password" local variable.(„¾˜ şÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÔĞ‚Áÿÿÿÿÿ
+Xsquid:S1854#"<Remove this useless assignment to local variable "Password".(„¾˜ şÿÿÿÿ
+asquid:S1854(">Remove this useless assignment to local variable "No_Of_Loan".(ä³–Ìùÿÿÿÿ8»Ş·â-
+Lsquid:S1481)"0Remove this unused "ProductType" local variable.(ãú³øÿÿÿÿ
+Isquid:S1481""-Remove this unused "UserName" local variable.(Ñ”‰Êÿÿÿÿÿ
+i
+squid:S134}"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ıÎ·¶ûÿÿÿÿ
+q
+squid:S134›"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8¾·‡µâ-
+Msquid:S1854."6Remove this useless assignment to local variable "df".(©Âìü
+ssquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+d
+squid:S134Q"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+d
+squid:S134u"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(³ÕØ¶
+`squid:S1132m"IMove the "ILP" string literal on the left side of this string comparison.(Ò²¿Ä
+Rsquid:S1481("/Remove this unused "No_Of_Loan" local variable.(ä³–Ìùÿÿÿÿ8»Ş·â-
+nsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+zsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä³–Ìùÿÿÿÿ8»Ş·â-
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+ssquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+‡squid:S1192h"iDefine a constant instead of duplicating this literal "Clicked on Go button under Loans section" 3 times.(îåêê8»Ş·â-
+Bsquid:S1166·"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+nsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Xsquid:S1854""<Remove this useless assignment to local variable "UserName".(Ñ”‰Êÿÿÿÿÿ
+d
+squid:S134„"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(İşt
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+esquid:S1132e"IMove the "PDL" string literal on the left side of this string comparison.(Û¶ª÷ûÿÿÿÿ
+>squid:S1481."'Remove this unused "df" local variable.(©Âìü
+ssquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ
+k
+squid:S134m"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ò²¿Ä8»Ş·â-
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ÔĞ‚Áÿÿÿÿÿ
+Ysquid:S1141›"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¾·‡µâ-
+nsquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ şÿÿÿÿ
+Ysquid:UselessImportCheck"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ
+dsquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Hsquid:S1481&",Remove this unused "StateID" local variable.(ŞÑæüÿÿÿÿ
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ”‰Êÿÿÿÿÿ
+i
+squid:S134e"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Û¶ª÷ûÿÿÿÿ
+d
+squid:S134]"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+esquid:S1132}"IMove the "TLP" string literal on the left side of this string comparison.(ıÎ·¶ûÿÿÿÿ
+fsquid:S1192C"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ

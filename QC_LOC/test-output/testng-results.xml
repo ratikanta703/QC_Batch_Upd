@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="113" total="114" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="603928" started-at="2020-04-11T20:40:59Z" finished-at="2020-04-11T20:51:03Z">
+    <groups>
+      <group name="Ratikanta_LOC_1">
+        <method signature="QCStore.RQC_LOC_Deposit_Return_2ndDeposit_Clear_3rdDeposit_Return_Default_Txn_Testdata()[pri:203, instance:tests.QCStore@56235b8e]" name="RQC_LOC_Deposit_Return_2ndDeposit_Clear_3rdDeposit_Return_Default_Txn_Testdata" class="tests.QCStore"/>
+      </group> <!-- Ratikanta_LOC_1 -->
+    </groups>
+    <test name="Test" duration-ms="603928" started-at="2020-04-11T20:40:59Z" finished-at="2020-04-11T20:51:03Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@56235b8e]" name="setup" is-config="true" duration-ms="82" started-at="2020-04-11T20:40:59Z" finished-at="2020-04-11T20:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@56235b8e]" name="killProcess" is-config="true" duration-ms="5031" started-at="2020-04-11T20:40:59Z" finished-at="2020-04-11T20:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="RQC_LOC_Deposit_Return_2ndDeposit_Clear_3rdDeposit_Return_Default_Txn_Testdata()[pri:203, instance:tests.QCStore@56235b8e]" name="RQC_LOC_Deposit_Return_2ndDeposit_Clear_3rdDeposit_Return_Default_Txn_Testdata" duration-ms="598104" started-at="2020-04-11T20:41:04Z" finished-at="2020-04-11T20:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RQC_LOC_Deposit_Return_2ndDeposit_Clear_3rdDeposit_Return_Default_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@56235b8e]" name="getResult" is-config="true" duration-ms="695" started-at="2020-04-11T20:51:03Z" finished-at="2020-04-11T20:51:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RQC_LOC_Deposit_Return_2ndDeposit_Clear_3rdDeposit_Return_Default_Txn_Testdata status=SUCCESS method=QCStore.RQC_LOC_Deposit_Return_2ndDeposit_Clear_3rdDeposit_Return_Default_Txn_Testdata()[pri:203, instance:tests.QCStore@56235b8e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

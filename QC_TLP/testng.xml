@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <groups>
+  <run>
+
+  
+  <!-- Brahmith group-->
+  <!-- Store:-1710 Date:-12-14-2017 Delete Procedure:-PRC_QC_SSN_THREE_TLP Count:-12-->
+   <!-- <include name="Brahmith"/> -->
+   
+  <!-- Janaki's group-->
+  <!-- Store:-3235 Date:-12-05-2017 Delete Procedure:-PRC_QC_SSN_FOUR_TLP Count:-9-->
+   <!-- <include name="Janaki"/> -->  
+  <!-- <include name="Janaki_EOD_set1"/> -->
+   
+   <!-- Anoop group-->
+   <!-- Store:-1706 Date:-12-05-2018 Delete Procedure:-PRC_QC_SSN_ONE_TLP Count:-12 -->
+   <!-- <include name="Anoop"/> -->
+   <!--  <include name="Anoop_bankruptcy"/>  -->
+    <!-- <include name="Anoop_writeoff"/> -->
+   <!-- <include name="Anoop_st_void"/> -->
+        <include name="Anoop_st_down"/> 
+   
+   
+
+
+  </run> 
+  </groups>
+    <classes>
+      <class name="tests.QCStore"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

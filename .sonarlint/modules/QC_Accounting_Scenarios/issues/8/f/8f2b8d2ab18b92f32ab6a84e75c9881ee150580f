@@ -1,0 +1,21 @@
+
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ8üÿ¢–ú-
+isquid:S1132`"KMove the "CHECK" string literal on the left side of this string comparison.(òÿÇ§8üÿ¢–ú-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8üÿ¢–ú-
+msquid:S11923"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ8üÿ¢–ú-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8üÿ¢–ú-
+hsquid:S1192W"JDefine a constant instead of duplicating this literal "go_Button" 3 times.(–ÆĞ¹8üÿ¢–ú-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µƒùÿÿÿÿ8üÿ¢–ú-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶«ŠÚ8üÿ¢–ú-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µƒùÿÿÿÿ8üÿ¢–ú-
+Psquid:S1172"-Remove this unused method parameter "AppURL".(µƒùÿÿÿÿ8üÿ¢–ú-
+˜squid:S1192X"uDefine a constant instead of duplicating this literal "Click on GO Button after transaction type selection " 3 times.(ª‚¬¥ùÿÿÿÿ8üÿ¢–ú-
+lsquid:S1192U"IDefine a constant instead of duplicating this literal " Deposit" 5 times.(ÇÖ¢ûûÿÿÿÿ8üÿ¢–ú-
+ssquid:S1192U"PDefine a constant instead of duplicating this literal "transactionList" 3 times.(ÇÖ¢ûûÿÿÿÿ8üÿ¢–ú-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µƒùÿÿÿÿ8üÿ¢–ú-
+gsquid:S1132O"IMove the "ACH" string literal on the left side of this string comparison.(ƒÛÕá8üÿ¢–ú-
+zsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ8üÿ¢–ú-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8üÿ¢–ú-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8üÿ¢–ú-
+nsquid:S1132s"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(Ô¾·…8üÿ¢–ú-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£¾•×
